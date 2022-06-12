@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.118" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/drawable/bot_img.xml" value="0.1" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.164" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/drawable/ic_launcher_background.xml" value="0.161" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/drawable/user.xml" value="0.1515" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_chatbot_menu.xml" value="0.2" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_detail_types.xml" value="0.23822463768115942" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_identity.xml" value="0.1" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_language.xml" value="0.33" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_main_menu.xml" value="0.33" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_scan_menu.xml" value="0.9" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types1.xml" value="0.4759259259259259" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types2.xml" value="0.23822463768115942" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types3.xml" value="0.4759259259259259" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types4.xml" value="0.23822463768115942" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types5.xml" value="0.23822463768115942" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types6.xml" value="0.23822463768115942" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types_menu.xml" value="0.33" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/bot_reply.xml" value="0.20555555555555555" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/user_holder.xml" value="0.20555555555555555" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

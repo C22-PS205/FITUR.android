@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sea"
+    tools:context=".Identity">
+
+    <ImageView
+        android:id="@+id/btn_backidentity"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.084"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.037"
+        app:srcCompat="@drawable/btnback"
+        tools:ignore="MissingConstraints" />
+
+
+    <TextView
+        android:layout_width="329dp"
+        android:layout_height="27dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="32dp"
+        android:fontFamily="@font/monomaniac"
+        android:text="Name"
+        android:textColor="#097182"
+        android:textSize="20dp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.133"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.423" />
+
+    <TextView
+        android:layout_width="329dp"
+        android:layout_height="27dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="32dp"
+        android:fontFamily="@font/monomaniac"
+        android:text="Latin Name"
+        android:textColor="#097182"
+        android:textSize="20dp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.133"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.535" />
+
+    <TextView
+        android:layout_width="329dp"
+        android:layout_height="27dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="32dp"
+        android:fontFamily="@font/monomaniac"
+        android:text="Ordo"
+        android:textColor="#097182"
+        android:textSize="20dp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.133"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.646" />
+
+    <ImageView
+        android:id="@+id/btn_seedetails"
+        android:layout_width="321dp"
+        android:layout_height="51dp"
+        android:background="@drawable/btndetails"
+        android:fontFamily="@font/monomaniac"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.861" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="207dp"
+        android:layout_height="198dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.142"
+        app:srcCompat="@drawable/belimbing" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

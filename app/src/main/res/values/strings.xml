@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">CAPSTONE</string>
+
+    <string name="latin_belimbing" translatable="false">Dermochelis coriacea</string>
+    <string name="belimbing" translatable="false">Penyu belimbing memiliki tempurung berwarna gelap dengan bintik putih. Panjangnya bisa mencapai 180 sentimeter dengan berat mencapai 500 kilogram. Penyu belimbing banyak ditemukan di perairan tropis hingga lautan sub kutub. Ketika penyu belimbing bertelur, mereka akan pergi ke pantai daerah tropis. D. coriacea menghabiskan sebagian besar hidupnya di laut lepas dan hanya naik ke daratan saat akan bertelur dan mereka bisa mengeluarkan telur 60 sampai 129 telur dalam dua sampai tiga tahun.</string>
+
+</resources>
