@@ -14,16 +14,7 @@ public class Identity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_identity);
 
-        ImageView backIdentity = (ImageView) findViewById(R.id.btn_backidentity) ;
         ImageView btnSeeDetails = (ImageView) findViewById(R.id.btn_seedetails) ;
-
-        backIdentity.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intBack = new Intent(Identity.this, ScanMenu.class);
-                startActivity(intBack);
-            }
-        });
 
         btnSeeDetails.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -9,18 +9,27 @@
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/drawable/ic_launcher_background.xml" value="0.161" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/drawable/user.xml" value="0.1515" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_chatbot_menu.xml" value="0.2" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_det_belimbing.xml" value="0.278125" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_det_hijau_bahasa.xml" value="0.278125" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_det_lekang_bahasa.xml" value="0.278125" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_det_pipih.xml" value="0.278125" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_det_sisik.xml" value="0.278125" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_det_tempayan.xml" value="0.278125" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_detail_types.xml" value="0.23822463768115942" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_identity.xml" value="0.1" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_langenglish.xml" value="0.278125" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_language.xml" value="0.33" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_main_menu.xml" value="0.33" />
-        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_scan_menu.xml" value="0.9" />
-        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types1.xml" value="0.4759259259259259" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_main_menu_bahasa.xml" value="0.278125" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_scan_menu.xml" value="0.25" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types1.xml" value="0.33" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types2.xml" value="0.23822463768115942" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types3.xml" value="0.4759259259259259" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types4.xml" value="0.23822463768115942" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types5.xml" value="0.23822463768115942" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types6.xml" value="0.23822463768115942" />
+        <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types_bahasa.xml" value="0.278125" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/activity_types_menu.xml" value="0.33" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/bot_reply.xml" value="0.20555555555555555" />
         <entry key="..\:/BANGKIT/CAPSTONE/app/src/main/res/layout/user_holder.xml" value="0.20555555555555555" />

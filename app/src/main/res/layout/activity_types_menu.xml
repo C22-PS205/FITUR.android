@@ -8,18 +8,18 @@
     tools:context=".TypesMenu">
 
     <ImageView
-        android:id="@+id/btn_types1"
+        android:id="@+id/btn_types6"
         android:layout_width="153dp"
         android:layout_height="178dp"
-        android:layout_marginStart="3dp"
-        android:layout_marginEnd="35dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="3dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.112"
+        app:layout_constraintHorizontal_bias="0.909"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.92"
-        app:srcCompat="@drawable/btntypestempayan"
+        app:layout_constraintVertical_bias="0.121"
+        app:srcCompat="@drawable/btntypesgreen"
         tools:ignore="MissingConstraints" />
 
     <ImageView
@@ -30,11 +30,26 @@
         android:layout_marginEnd="3dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.91"
+        app:layout_constraintHorizontal_bias="0.913"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.92"
+        app:layout_constraintVertical_bias="0.862"
         app:srcCompat="@drawable/btntypessisik"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/btn_types1"
+        android:layout_width="153dp"
+        android:layout_height="178dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginEnd="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.118"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.862"
+        app:srcCompat="@drawable/btntypestempayan"
         tools:ignore="MissingConstraints" />
 
     <ImageView
@@ -46,26 +61,11 @@
         android:layout_marginEnd="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.116"
+        app:layout_constraintHorizontal_bias="0.122"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.529"
+        app:layout_constraintVertical_bias="0.468"
         app:srcCompat="@drawable/btntypesbelimbing"
-        tools:ignore="MissingConstraints" />
-
-    <ImageView
-        android:id="@+id/btn_types4"
-        android:layout_width="153dp"
-        android:layout_height="178dp"
-        android:layout_marginStart="35dp"
-        android:layout_marginEnd="3dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.903"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.553"
-        app:srcCompat="@drawable/btntypespipih"
         tools:ignore="MissingConstraints" />
 
     <ImageView
@@ -76,39 +76,26 @@
         android:layout_marginEnd="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.118"
+        app:layout_constraintHorizontal_bias="0.122"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.18"
+        app:layout_constraintVertical_bias="0.121"
         app:srcCompat="@drawable/btntypeslekang"
         tools:ignore="MissingConstraints" />
 
     <ImageView
-        android:id="@+id/btn_types6"
+        android:id="@+id/btn_types4"
         android:layout_width="153dp"
         android:layout_height="178dp"
         android:layout_marginStart="35dp"
         android:layout_marginEnd="3dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.903"
+        app:layout_constraintHorizontal_bias="0.909"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.18"
-        app:srcCompat="@drawable/btntypesgreen"
-        tools:ignore="MissingConstraints" />
-
-    <ImageView
-        android:id="@+id/btn_menu"
-        android:layout_width="42dp"
-        android:layout_height="42dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.084"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.037"
-        app:srcCompat="@drawable/btnback"
+        app:layout_constraintVertical_bias="0.495"
+        app:srcCompat="@drawable/btntypespipih"
         tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

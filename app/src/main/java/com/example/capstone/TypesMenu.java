@@ -20,15 +20,6 @@ public class TypesMenu extends AppCompatActivity {
         ImageView btn4 = (ImageView) findViewById(R.id.btn_types4);
         ImageView btn5 = (ImageView) findViewById(R.id.btn_types5);
         ImageView btn6 = (ImageView) findViewById(R.id.btn_types6);
-        ImageView btnMenu = (ImageView) findViewById(R.id.btn_menu);
-
-        btnMenu.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intMenu = new Intent(TypesMenu.this, MainMenu.class);
-                startActivity(intMenu);
-            }
-        });
 
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override

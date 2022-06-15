@@ -46,7 +46,7 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
         btnLanguage.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intLang = new Intent(MainMenu.this, activity_language.class);
+                Intent intLang = new Intent(MainMenu.this, activity_langenglish.class);
                 startActivity(intLang);
             }
         });

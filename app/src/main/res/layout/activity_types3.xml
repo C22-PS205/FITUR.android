@@ -44,7 +44,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:fontFamily="@font/monomaniac"
-        android:text="Penyu Belimbing"
+        android:text="Belimbing sea turtle"
         android:textColor="@color/black"
         android:textSize="30sp"
         android:textStyle="normal"
